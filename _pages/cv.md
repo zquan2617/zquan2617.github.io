@@ -11,11 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MPhil in Cognitive Neuroscience, University of Cambridge, 2026 (expected)
+* B.S. in Biopsychology, Cognition, and Neuroscience with Honors, University of Michigan, 2025
 
-Work experience
+Research experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
